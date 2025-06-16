@@ -1,4 +1,4 @@
-🕊️ SolaceVR LLM
+***🕊️ SolaceVR LLM
 SolaceVR LLM is an experimental domain-specific large language model project focused on spiritually grounded text, particularly from the Latter-day Saint tradition. While the initial goal was to build a bespoke LLM from scratch using foundational texts like the Book of Mormon, Doctrine and Covenants, and Joseph Smith Translation, we encountered critical feasibility barriers. This repo captures our progress, methods, and lessons learned from the project.
 
 📚 Project Vision
